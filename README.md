@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/lordlughas/Summary-Order-Component/blob/main/design/order%20summary%20page%20desktop.PNG)
 
 
 ### Links
